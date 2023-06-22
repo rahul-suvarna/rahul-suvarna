@@ -2,6 +2,6 @@
 
 # I am Rahul Suvarna
 
-### An aspiring Data Analyst
+### Check out my projects here in the GitHub repositories below...
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/suvarna-rahul/).
+### Also feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/suvarna-rahul/).
