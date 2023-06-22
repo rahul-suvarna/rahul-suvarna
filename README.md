@@ -1,6 +1,8 @@
-### Hi there 👋 I am Rahul Suvarna
+### Hi there 👋 
 
-# An aspiring Data Analyst
+#I am Rahul Suvarna
+
+## An aspiring Data Analyst
 
 <!--
 **rahul-suvarna/rahul-suvarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
