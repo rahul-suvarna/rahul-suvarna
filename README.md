@@ -1,4 +1,4 @@
-![alt text](rahul_banner.png)
+![alt text](rahul-banner.png)
 
 ### Hi there 👋 
 
